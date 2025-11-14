@@ -1,4 +1,4 @@
-![Banner]([https://i.ibb.co.com/gM1zXf8m/Navy-Blue-Geometric-Technology-Linked-In-Banner.png](https://ibb.co.com/V0SG0x3S))
+![Banner](https://ibb.co.com/V0SG0x3S)
 
 # Full-Stack Developer | JavaScript & TypeScript 
 
