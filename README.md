@@ -1,4 +1,4 @@
-![Banner](https://ibb.co.com/V0SG0x3S)
+![Banner](https://ibb.co.com/N2D37K6s)
 
 # Full-Stack Developer | JavaScript & TypeScript 
 
