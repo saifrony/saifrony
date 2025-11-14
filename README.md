@@ -2,7 +2,7 @@
 
 # Full-Stack Developer | JavaScript & TypeScript 
 
-### Hi there I’m Salma Akter
+### Hi there I’m Mohammad Saiful Islam Rony
 
 
 I’m a passionate developer with 2+ years of experience building scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I specialize in crafting clean UIs, optimizing performance, and writing maintainable code on both the frontend and backend. Always exploring new technologies. I enjoy solving real-world problems and building full-featured applications with modern web tools.
