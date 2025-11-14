@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/SDqP2713/Blue-and-White-Architect-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/wNQBFcPd/Linked-In-Banner.png)
 
 # Full-Stack Developer | JavaScript & TypeScript 
 
